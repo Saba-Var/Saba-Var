@@ -1,4 +1,4 @@
-### Hi there, I'm Saba 👋
+# Hi there, I'm Saba 👋
 
 ## I am a Developer and Graphic Designer from Georgia! 🖥️
 
@@ -19,4 +19,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+<br>
+<br>
+
+#### Don't forget to see my [portfolio](https://www.behance.net/sabavartasa?tracking_source=search_users%7Csaba%20vartasashvili) of graphic design  too 💪
+
  
