@@ -27,5 +27,4 @@
 #### Don't forget to see my [portfolio](https://www.behance.net/sabavartasa?tracking_source=search_users%7Csaba%20vartasashvili) of graphic design  too 💪
 ##
  
-[![Saba-Var's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba-Var)](https://github.com/Saba-Var/github-readme-stats)
- 
+ ![Saba-Var's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba-Var&show_icons=true&theme=github_dark)
