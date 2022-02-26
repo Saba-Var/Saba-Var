@@ -29,3 +29,5 @@
 ##
  
  ![Saba-Var's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba-Var&show_icons=true&theme=github_dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Var&langs_count=8)](https://github.com/Saba-Var/github-readme-stats)
+
