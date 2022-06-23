@@ -27,9 +27,6 @@
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
 <br>
 <br>
-
-#### Don't forget to see my [portfolio](https://www.behance.net/sabavartasa?tracking_source=search_users%7Csaba%20vartasashvili) of graphic design  too 💪
-##
  
  ![Saba-Var's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba-Var&show_icons=true&theme=github_dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-Var&langs_count=8)](https://github.com/Saba-Var/github-readme-stats)
