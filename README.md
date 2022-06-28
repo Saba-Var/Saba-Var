@@ -2,14 +2,7 @@
   <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width=500>
 </p>
 
-## 👋 Hi there, I'm Saba - Developer and Graphic Designer from Georgia! 🖥️<img alt="flag of Georgia" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png" />
-
-- 🌱 I’m currently learning Front-end development 🙏
-- 👯 I’m looking to collaborate with other developers.
-- 🕵️ I’m interested in everything 🖥️
-- 💼 Open for any offer.
-- 📢 Main goal of 2022: To get as much experience as possible.
-
+## 👋 Hi there, I'm Saba - Web Developer and Graphic Designer from Georgia! 🖥️<img alt="flag of Georgia" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png" />
 
 ### Languages and Tools:
 
